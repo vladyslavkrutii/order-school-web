@@ -118,8 +118,8 @@ function AboutCourseMobile() {
           transition={{ delay: 0.4 }}
           className="mb-6 flex justify-start"
         >
-          <a href="/onboarding">
-            <Button className="bg-[#F42B39] text-white -mx-25 py-6 px-3 text-[14px] uppercase font-medium font-mono tracking-wide hover:bg-[#d12432] rounded-[10px] shadow-md transition-colors">
+          <a href="/onboarding" className="w-full">
+            <Button className="bg-[#F42B39] text-white py-6 px-8 text-[14px] uppercase font-medium font-mono tracking-wide hover:bg-[#d12432] rounded-[10px] shadow-md transition-colors">
               Дізнатися більше
             </Button>
           </a>
